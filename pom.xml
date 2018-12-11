@@ -8,10 +8,10 @@
         <version>1.5.1.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <modelVersion/>
+    <modelVersion>4.0.0</modelVersion>
     <groupId>hua.lee</groupId>
     <artifactId>blog</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>blog</name>
     <description>H &amp; L project for Spring Boot</description>
     <packaging>jar</packaging>
